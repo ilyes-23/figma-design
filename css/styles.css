@@ -400,6 +400,7 @@ margin-left: 649px;
   display: flex;
   align-items:center;
   justify-content:center;
+  position: absolute;
   
 }
 .footer-section h1{
